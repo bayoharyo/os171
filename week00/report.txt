@@ -1,0 +1,4 @@
+#haryo_parigroho
+
+deskripsi singkat tugas minggu 0:
+Membuat akun github, Menggunakan akun google, Membuat repository di github, melakukan login ke badak.cs.ui.ac.id
