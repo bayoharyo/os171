@@ -1,0 +1,3 @@
+#haryo_parigroho
+Deskripsi singkat mengenai tugas minggu 1:
+mempelajari beberapa syntax git seperti berpindah directory, membuat folder, membuat file, menghapus file, menggunakan text editor vi, dan juga mempelajari cara push dan pull git
