@@ -1,1 +1,2 @@
 #ostutorial
+Ekspektasi saya ketika mengambil kelas ini adalah belajar mengenai kerangka OS, apa saja yang perlu ada dalam sistem operasi dan apa saja hal yang perlu dipertimbangkan dalam membuat sistem operasi
