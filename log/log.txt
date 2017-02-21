@@ -1,0 +1,3 @@
+w01-170217-17-PS-About: Scripting, CLI, GIT
+w02-170221-13-LR-About:	Encryption from lecturer
+w02-170221-13-LR-About: Encryption from lecturer
