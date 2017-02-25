@@ -1,3 +1,9 @@
 w01-170217-17-PS-About: Scripting, CLI, GIT
 w02-170221-13-LR-About:	Encryption from lecturer
 w02-170221-13-LR-About: Encryption from lecturer
+w02-170222-17-PS-About: C, Sign and Encryption
+w02-170222-17-PS-About: C, Sign and Encryption
+w02-170222-17_PS-About: C, Sign and Encryption
+w02-170223-13-LR-About: C language from lecturer
+w02-170223-13-LR-About: C language from lecturer
+w02-170223-13-LR-About: C language from lecturer
