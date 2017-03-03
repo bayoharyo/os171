@@ -7,3 +7,8 @@ w02-170222-17_PS-About: C, Sign and Encryption
 w02-170223-13-LR-About: C language from lecturer
 w02-170223-13-LR-About: C language from lecturer
 w02-170223-13-LR-About: C language from lecturer
+W03-170301-13-LR-About: BIOS, Boot and UpStart
+w03-170301-13-LR-About: BIOS, Boot and UpStart
+w03-170301-13-LR-About: BIOS, Book and UpStart
+w03-170303-07-PS-About: Boot and sudo
+w03-170303-07-PS-About: Boot and sudo
