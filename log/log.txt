@@ -12,3 +12,15 @@ w03-170301-13-LR-About: BIOS, Boot and UpStart
 w03-170301-13-LR-About: BIOS, Book and UpStart
 w03-170303-07-PS-About: Boot and sudo
 w03-170303-07-PS-About: Boot and sudo
+w04-170307-13-LR-About: C, memory and pointer
+w04-170307-13-LR-About: C, memory and pointer
+w04-170307-13-LR-About: C, memory and pointer
+w04-170308-14-PS-About: Pointer and I/O
+w04-170308-14-PS-About: Pointer and I/O
+w04-170308-14-PS-About: Pointer and I/O
+w04-170309-13-LR-About: I/O
+w04-170309-13-LR-About: I/O
+w04-170309-13-LR-About: I/O
+w04-170309-15-PS-About: Pointer and I/O
+w04-170309-15-PS-About: Pointer and I/O
+w04-170309-15-PS-About: Pointer and I/O
