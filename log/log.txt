@@ -24,3 +24,14 @@ w04-170309-13-LR-About: I/O
 w04-170309-15-PS-About: Pointer and I/O
 w04-170309-15-PS-About: Pointer and I/O
 w04-170309-15-PS-About: Pointer and I/O
+w05-170314-13-LR-About: Memory, Fragmentation, Paging, Binding etc
+w05-170314-13-LR-About: Memory, Fragmentation, Paging, Binding etc
+w05-170314-13-LR-About: Memory, Fragmentation, Paging, Binding etc
+w05-170316-11-PS-About: Memory, malloc(), system(), free(), top
+w05-170316-12-PS-About: Memory, malloc(), system(), free(), top
+w05-170316-13-LR-About: Memory, LRU, FIFO, and Optimal Algorithm
+w05-170316-13-LR-About: Memory, LRU, FIFO, and Optimal Algorithm
+w05-170316-13-LR-About: Memory, LRU, FIFO, and Optimal Algorithm
+w05-170317-6-PS-About: Memory, malloc(), system(), free(), top
+w05-170317-7-PS-About: Memory, malloc(), system(), free(), top
+w05-170317-8-PS-About: Memory, malloc(), system(), free(), top
