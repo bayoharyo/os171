@@ -35,3 +35,9 @@ w05-170316-13-LR-About: Memory, LRU, FIFO, and Optimal Algorithm
 w05-170317-6-PS-About: Memory, malloc(), system(), free(), top
 w05-170317-7-PS-About: Memory, malloc(), system(), free(), top
 w05-170317-8-PS-About: Memory, malloc(), system(), free(), top
+w06-170321-13-LR-About: Memory
+w06-170321-13-LR-About: Memory
+w06-170321-13-LR-About: Memory
+w06-170323-13-LR-About: Memory
+w06-170323-13-LR-About: Memory
+w06-170323-13-LR-About: Memory
