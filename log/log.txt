@@ -41,3 +41,6 @@ w06-170321-13-LR-About: Memory
 w06-170323-13-LR-About: Memory
 w06-170323-13-LR-About: Memory
 w06-170323-13-LR-About: Memory
+w08-170406-13-LR-About: Thread and process
+w08-170406-13-LR-About: Thread and process
+w08-170406-13-LR-About: Thread and process
